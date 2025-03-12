@@ -1,4 +1,4 @@
-## To-do em Pyhton
+# To-do em Pyhton
 To-Do List App em Python
 Este repositório contém uma aplicação simples para gerenciamento de tarefas (To-Do List), desenvolvida em Python. O projeto é voltado para quem deseja organizar melhor suas atividades e aprender os conceitos básicos da linguagem Python.
 
